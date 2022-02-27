@@ -7,7 +7,6 @@ export const App = () => {
   return (
     <div className='App'>
       <div className='gradient__bg'>
-      <h1>testing</h1>
         <Navbar />
         <Header />      
       </div>
