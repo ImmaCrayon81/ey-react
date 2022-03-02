@@ -46,7 +46,7 @@
     line-height: 25px;
     text-transform: capitalize; /* capitalize first character */
 
-    margin: 0 1rem; /* top-bottom, left-right */
+    margin: 0 1rem 5px; /* top-bottom, left-right */
     cursor: pointer; /* top bottom */
 }
 
